@@ -1,0 +1,5 @@
+streamlit
+opencv_python
+matplotlib
+numpy
+plotly_express
